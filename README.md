@@ -4,10 +4,10 @@
 
 
 # Install the compiler
-``
+`
 $ curl -s https://get.sdkman.io | bash
 
 open a new terminal
 
 $ sdk install kotlin    
-``
+`
